@@ -1,0 +1,29 @@
+Absolute:
+AutoCAD menu utilities loaded.
+Command:
+Command:
+Command: _line Specify first point: 10,10
+Specify next point or [Undo]: 10,20
+Specify next point or [Undo]: 50,20
+Specify next point or [Close/Undo]: 50,10
+Specify next point or [Close/Undo]: c
+
+Relative:
+AutoCAD menu utilities loaded.
+Command:
+Command:
+Command: _line Specify first point: 10,10
+Specify next point or [Undo]: @10,0
+Specify next point or [Undo]: @0,15
+Specify next point or [Close/Undo]: @-10,0
+Specify next point or [Close/Undo]: c
+
+Polar:
+AutoCAD menu utilities loaded.
+Command:
+Command:
+Command: _line Specify first point: 10,10
+Specify next point or [Undo]: @10<0
+Specify next point or [Undo]: @20<90
+Specify next point or [Close/Undo]: @10<180
+Specify next point or [Close/Undo]: c
