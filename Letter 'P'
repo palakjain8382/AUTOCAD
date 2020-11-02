@@ -1,0 +1,66 @@
+	
+Regenerating model.
+AutoCAD menu utilities loaded.
+Command: PDMODE
+Enter new value for PDMODE <0>: 32
+Regenerating model.
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 5,5
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 5,6
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 5,7
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 5,8
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 5,9
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 5,10
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 5,11
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 5,12
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 5,13
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 6,13
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 7,13
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 8,13
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 9,13
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 9,12
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 9,11
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 9,10
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 9,9
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 8,9
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 7,9
+Command: _point
+Current point modes:  PDMODE=32  PDSIZE=0.0000
+Specify a point: 6,9
